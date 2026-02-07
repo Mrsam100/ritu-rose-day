@@ -176,7 +176,7 @@ export default function RoseScene({ onReplay }) {
                 >
                   <span className="h-px w-12 bg-gradient-to-r from-transparent to-rose-300" />
                   <span className="font-serif text-2xl md:text-3xl text-rose-200 italic">
-                    Neelam
+                    Nandani
                   </span>
                   <motion.span
                     className="text-2xl"

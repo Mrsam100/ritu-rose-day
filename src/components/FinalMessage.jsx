@@ -24,7 +24,7 @@ export default function FinalMessage({ onReplay }) {
       })
 
       const link = document.createElement('a')
-      link.download = 'rose-day-neelam.png'
+      link.download = 'rose-day-nandani.png'
       link.href = canvas.toDataURL('image/png')
       link.click()
     } catch {
@@ -110,7 +110,7 @@ export default function FinalMessage({ onReplay }) {
             <p className="font-serif text-lg md:text-xl text-rose-100 italic leading-relaxed mt-2">
               Thank you for being my strength,{' '}
               <span className="font-script text-2xl md:text-3xl text-rose-300 not-italic">
-                Neelam
+                Nandani
               </span>
               "
             </p>
@@ -200,7 +200,7 @@ export default function FinalMessage({ onReplay }) {
           className="text-center mt-8"
         >
           <p className="font-sans text-xs text-rose-400/40 tracking-wider">
-            Made with ❤️ just for you, Neelam
+            Made with ❤️ just for you, Nandani
           </p>
         </motion.div>
       </motion.div>

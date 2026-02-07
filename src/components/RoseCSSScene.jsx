@@ -280,7 +280,7 @@ export default function RoseCSSScene({ onReplay }) {
               </h1>
               <div className="flex items-center justify-center gap-2">
                 <span className="h-px w-10 bg-gradient-to-r from-transparent to-rose-300" />
-                <span className="font-serif text-xl text-rose-200 italic">Neelam</span>
+                <span className="font-serif text-xl text-rose-200 italic">Nandani</span>
                 <motion.span
                   className="text-xl"
                   animate={{ scale: [1, 1.3, 1] }}
